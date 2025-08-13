@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-df = pd.read_csv('KaggleV2-May-2016.csv')
+df = pd.read_csv('data/KaggleV2-May-2016.csv')
 df['ScheduledDay'] = pd.to_datetime(df['ScheduledDay'])
 df['AppointmentDay'] = pd.to_datetime(df['AppointmentDay'])
 df['appointment_weekday'] = df['AppointmentDay'].dt.day_name()
@@ -501,3 +501,4 @@ def age_impact_on_attendance(gender, neighborhood, age_range):
 
 if __name__ == "__main__":
     app.run(debug=True)
+
