@@ -6,7 +6,7 @@ This tool visualizes patient attendance patterns, no-show rates, demographics, a
 ---
 
 ## 📸 Preview
-![Dashboard Demo](assets/dashboard-demo.gif)
+![Dashboard Demo](assets/screenshot.png)
 
 ---
 
