@@ -1,0 +1,68 @@
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #000 !important;
+    height: 100%;
+    width: 100%;
+}
+/* dropdown.css */
+.Select-menu-outer {
+    background-color: #000000 !important;
+    color: #0E46A3 !important;
+}
+
+.Select-option {
+    background-color: #000000 !important;
+    color: #0E46A3 !important;
+}
+
+.Select-option.is-focused {
+    background-color: #333333 !important; /* hover */
+}
+
+.Select-option.is-selected {
+    background-color: #444444 !important; /* selected */
+}
+
+/* Style for dropdown options menu */
+.Select-menu-outer {
+    background-color: #222222 !important;
+    color: #0E46A3 !important;
+}
+
+/* Style for individual options */
+.Select-option {
+    background-color: #222222 !important;
+    color: #0E46A3 !important;
+}
+
+/* Option when hovered */
+.Select-option.is-focused {
+    background-color: #333333 !important;
+    color: #0E46A3 !important;
+}
+
+/* Option when selected */
+.Select-option.is-selected {
+    background-color: #444444 !important;
+    color: #0E46A3 !important;
+}
+
+/* Style for the main dropdown box */
+.Select-control {
+    background-color: #000000 !important;
+    border-color: #0E46A3 !important;
+    color: #0E46A3 !important;
+}
+
+/* Placeholder and selected text */
+.Select-placeholder,
+.Select-value-label {
+    color: #0E46A3 !important;
+}
+.two-columns {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
