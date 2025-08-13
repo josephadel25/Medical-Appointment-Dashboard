@@ -6,7 +6,7 @@ This tool visualizes patient attendance patterns, no-show rates, demographics, a
 ---
 
 ## 📸 Preview
-![Dashboard Demo](images/dashboard-demo.gif)
+![Dashboard Demo](assets/dashboard-demo.gif)
 
 ---
 
@@ -57,9 +57,8 @@ python app.py
 ```
 
 ### Then open your browser at:
-```
+
 http://127.0.0.1:8050/
-```
 
 ## 📊 Dataset
 
