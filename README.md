@@ -57,10 +57,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Then open your browser at:
-
-http://127.0.0.1:8050/
-
 ## 📊 Dataset
 
 The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments).
